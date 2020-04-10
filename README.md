@@ -1,0 +1,2 @@
+# Realistic-GNSS-Simulation-to-Automotive-Hardware-in-the-Loop-Testing-
+A new API for GNSS simulators enables greater accuracy, integrity and control for growing sensor-fusion testing needs. Spirent Communications’ SimHIL, an integrated hardware-in-the-loop (HIL) testing software API for Spirent GNSS simulators, brings high-fidelity GNSS signal simulation with low latency to automotive industry HIL testbeds https //insidegnss.com/ .
